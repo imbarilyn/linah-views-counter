@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/29 12:29 AM UTC
+			2022/10/7 3:06 PM UTC
 		</td>
 		<td>
-			5
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/418885649/small/year.png" height="20"> 12
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/418885649/small/year.png" height="20"> 16
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,66 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/29 12:30 AM UTC
+			2022/10/7 3:06 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/418892131/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/imbarilyn/linah-views-counter/tree/master/readme/548019656/year.md">
+				expense-calculator-device
+			</a>
+		</td>
+		<td>
+			2022/10/6 3:06 PM UTC
 		</td>
 		<td>
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/418892131/small/year.png" height="20"> 19
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/548019656/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/imbarilyn/linah-views-counter/tree/master/readme/545689784/year.md">
+				Expense-Calculator
+			</a>
+		</td>
+		<td>
+			2022/10/6 12:00 AM UTC
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/545689784/small/year.png" height="20"> 120
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/imbarilyn/linah-views-counter/tree/master/readme/544275087/year.md">
+				Bot-Battlr
+			</a>
+		</td>
+		<td>
+			2022/10/6 12:00 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/544275087/small/year.png" height="20"> 81
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/31 12:30 AM UTC</i></small>
+<small><i>Last updated on 2022/10/9 3:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

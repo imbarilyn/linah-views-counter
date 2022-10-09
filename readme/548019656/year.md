@@ -1,7 +1,7 @@
 ## [🔙 linah-views-counter](https://github.com/imbarilyn/linah-views-counter)
 
-### :octocat: [linah-views-counter](https://github.com/imbarilyn/linah-views-counter)
-![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/large/year.png)
+### :octocat: [expense-calculator-device](https://github.com/imbarilyn/expense-calculator-device)
+![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/graph/548019656/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>3</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>11</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,10 +155,10 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>39</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/418892131/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/week.md)
+[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/548019656/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/548019656/week.md)
 ```readme
-[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/418892131/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/week.md)
+[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/548019656/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/548019656/week.md)
 ```
 ### Header
-# linah-views-counter [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/year.md)
+# expense-calculator-device [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/548019656/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/548019656/year.md)
 ```readme
-# linah-views-counter [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/year.md)
+# expense-calculator-device [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/548019656/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/548019656/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -1,7 +1,7 @@
 ## [🔙 linah-views-counter](https://github.com/imbarilyn/linah-views-counter)
 
-### :octocat: [linah-views-counter](https://github.com/imbarilyn/linah-views-counter)
-![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/large/year.png)
+### :octocat: [Bot-Battlr](https://github.com/imbarilyn/Bot-Battlr)
+![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/graph/544275087/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2022/10/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>14</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>81</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2022/9/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2022/4/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2021/10/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>39</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2022/10/9 3:06 PM UTC</i></small>
+<small><i>Last updated on 2022/10/9 3:07 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/418892131/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/week.md)
+[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/544275087/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/544275087/week.md)
 ```readme
-[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/418892131/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/week.md)
+[![Image of linah-views-counter](https://github.com/imbarilyn/linah-views-counter/blob/master/svg/544275087/badge.svg)](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/544275087/week.md)
 ```
 ### Header
-# linah-views-counter [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/year.md)
+# Bot-Battlr [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/544275087/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/544275087/year.md)
 ```readme
-# linah-views-counter [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/418892131/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/418892131/year.md)
+# Bot-Battlr [<img alt="Image of linah-views-counter" src="https://github.com/imbarilyn/linah-views-counter/blob/master/graph/544275087/small/year.png" height="20">](https://github.com/imbarilyn/linah-views-counter/blob/master/readme/544275087/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
