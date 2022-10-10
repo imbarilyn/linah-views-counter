@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 3:06 PM UTC
+			2022/10/8 3:06 PM UTC
 		</td>
 		<td>
 			7
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 3:06 PM UTC
+			2022/10/8 3:06 PM UTC
 		</td>
 		<td>
 			7
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 3:06 PM UTC
+			2022/10/8 12:00 AM UTC
 		</td>
 		<td>
-			3
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/548019656/small/year.png" height="20"> 11
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/548019656/small/year.png" height="20"> 15
 		</td>
 	</tr>
 	<tr>
@@ -74,13 +74,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 12:00 AM UTC
 		</td>
 		<td>
-			24
+			29
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/545689784/small/year.png" height="20"> 139
+			<img alt="Response time graph" src="https://github.com/imbarilyn/linah-views-counter/raw/master/graph/545689784/small/year.png" height="20"> 181
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/10/7 12:00 AM UTC
+			2022/10/8 3:07 PM UTC
 		</td>
 		<td>
 			15
@@ -101,7 +101,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/9 6:23 PM UTC</i></small>
+<small><i>Last updated on 2022/10/10 2:00 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
